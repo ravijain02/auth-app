@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# auth-app
+
+ **How to Run the App Locally**
+ 
+ **1. Clone the Repository**
+  git clone https://github.com/ravijain02/auth-app.git
+  cd chat-app
+
+  **2. Install Dependencies**
+    npm install
+    
+**3. Start the Development Server**
+    npm start
+
+**For Login use**
+ Username -> emilys
+ Password -> emilyspass
+>>>>>>> 0dd74a83f98db9c08b2bdde6a82474687f70c59d
